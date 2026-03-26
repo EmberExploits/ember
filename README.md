@@ -1,2 +1,2 @@
 ## Certificates
-- [DataCamp – Introduction to Python](datacamp-python.pdf)
+- [DataCamp – Introduction to Python](introductiontopythoncertificate.pdf)
